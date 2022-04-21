@@ -1,0 +1,10 @@
+Busco el primer valor positivo
+Almaceno su direccion
+
+Ciclo:	
+	Busco numero positivo para guardar
+	Guardo direccion N°pos en la direccion ya almacenada
+	Reemplazo direccion
+	Vuelvo a repetir el ciclo hasta encontrar un 0 (final)
+
+
